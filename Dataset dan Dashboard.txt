@@ -1,0 +1,7 @@
+**DATA SET YANG DIGUNAKAN**
+
+*https://www.kaggle.com/datasets/hendratno/covid19-indonesia*
+
+**Dashboard Looker**
+
+*https://lookerstudio.google.com/reporting/2f50c90c-fe11-457c-b861-c640b31a58c7*
